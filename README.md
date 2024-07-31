@@ -9,9 +9,9 @@ The purpose of this project is to learn how to create an README.md file by using
 Undecided
 
 ## Installation Requiremenets
-Node.JS
-Inquirer Package 8.2.4
-Personal IDE
+- Node.JS
+- Inquirer Package 8.2.4
+- Personal IDE
 
 ## Installation steps
 
